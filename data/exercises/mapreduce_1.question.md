@@ -1,4 +1,6 @@
 
+## Exercise 1
+## Deadline: 21-Jul-2017 11:59 PM PST
 
 **Data**
 The sales data `data/daily_sales` contains transactions made by customers on three different days. Individual files are in CSV format and they contain the following columns: `TransactionID, Name, Category, State, DollarAmount`. 
