@@ -31,7 +31,7 @@ The sales data `data/daily_sales` contains transactions made by customers on thr
 3. Compute State-Category-wise total sales. The output would be like this:
 
 | State | Category | Total Sales |
-|----------|:-----------:||-----------:|
+|----------|:-----------:|-----------:|
 | TX|Grocery|    4.17|
 | AZ|Apparel|    0.85|
 | CA| Beauty|   41.92|
