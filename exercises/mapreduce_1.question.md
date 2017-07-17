@@ -9,7 +9,7 @@ The sales data `data/daily_sales` contains transactions made by customers on thr
 1. Compute Category-wise total sales. The output would be like this:
 
 | Category | Total Sales |
-|----------|:-----------:|
+|----------|-----------:|
 |Home|104.14|
 |Outdoor|41.61|
 |Apparel|80.74|
@@ -19,7 +19,7 @@ The sales data `data/daily_sales` contains transactions made by customers on thr
 2. Compute State-wise total sales. The output would be like this:
 
 | State | Total Sales |
-|----------|:-----------:|
+|----------|-----------:|
 | AZ|   44.21|
 | OR|    55.9|
 | CA|  179.06|
@@ -31,7 +31,7 @@ The sales data `data/daily_sales` contains transactions made by customers on thr
 3. Compute State-Category-wise total sales. The output would be like this:
 
 | State | Category | Total Sales |
-|----------|:-----------:||:-----------:|
+|----------|:-----------:||-----------:|
 | TX|Grocery|    4.17|
 | AZ|Apparel|    0.85|
 | CA| Beauty|   41.92|
