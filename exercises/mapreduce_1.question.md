@@ -32,26 +32,29 @@ The sales data `data/daily_sales` contains transactions made by customers on thr
 
 | State | Category | Total Sales |
 |----------|:-----------:|-----------:|
-| TX|Grocery|    4.17|
+| State | Category | Total Sales |
+|----------|:-----------:|-----------:|
 | AZ|Apparel|    0.85|
-| CA| Beauty|   41.92|
-| OR|Apparel|    2.39|
-| OR|   Home|    4.12|
-| OR| Beauty|   15.67|
-| NY|Apparel|    4.96|
-| TX|Apparel|    5.15|
-| NY|Grocery|    3.64|
-| CA|   Home|   13.67|
-| TX|   Home|   37.81|
-| CA|Grocery|   33.69|
 | AZ| Beauty|    8.44|
-| NY| Beauty|   12.84|
-| TX| Beauty|   10.45|
-| CA|Outdoor|   22.39|
-| CA|Apparel|   67.39|
-| TX|Outdoor|   17.72|
 | AZ|Grocery|   22.68|
+| AZ|   Home|   12.24|
+| CA|Apparel|   67.39|
+| CA| Beauty|   41.92|
+| CA|Grocery|   33.69|
+| CA|   Home|   13.67|
+| CA|Outdoor|   22.39|
+| FL|Grocery|   21.51|
 | FL|   Home|    36.3|
-
-
-
+| NY|Apparel|    4.96|
+| NY| Beauty|   12.84|
+| NY|Grocery|    3.64|
+| OR|Apparel|    2.39|
+| OR| Beauty|   15.67|
+| OR|Grocery|   32.22|
+| OR|   Home|    4.12|
+| OR|Outdoor|     1.5|
+| TX|Apparel|    5.15|
+| TX| Beauty|   10.45|
+| TX|Grocery|    4.17|
+| TX|   Home|   37.81|
+| TX|Outdoor|   17.72|
