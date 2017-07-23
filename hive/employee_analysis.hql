@@ -1,4 +1,8 @@
 
+CREATE DATABASE IF NOT EXISTS emptests;
+
+USE emptests;
+
 ---------------------------------------------------------
 -- Departments table
 ---------------------------------------------------------
